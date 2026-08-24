@@ -1,3 +1,3 @@
 
 Python
-print ("This changes belong to the greetig feature")
+print ("This changes was made on the greeting feature")
