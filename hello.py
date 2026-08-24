@@ -1,3 +1,3 @@
 
 Python
-print ("Hello Git!")
+print ("I understand the Git workflow")
